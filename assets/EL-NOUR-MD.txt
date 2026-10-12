@@ -1,0 +1,5 @@
+Ce fichier est un placeholder. Ajoute ton image ou gif animé nommé `el-nour.gif` dans ce dossier pour que le bot l'envoie comme animation avant les réponses.
+
+Exemple: assets/el-nour.gif
+
+Tu peux utiliser un GIF léger (500KB max recommandé). Si tu veux, envoie-moi une image et je l'ajouterai.
